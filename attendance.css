@@ -1,0 +1,33 @@
+body {
+    background-color: grey;
+    text-align: center;
+
+}
+.att_form {
+    opacity: 80%;
+    background-color: white;
+    color:grey;
+    font-family: 'Courier New', Courier, monospace;
+    width: 50%;
+    display: block;
+    text-align: center;
+    margin: 30px 300px 30px 300px;
+    padding: 20px 20px 20px 20px;
+}
+
+.att_form input[type=text]{
+    display: block;
+    margin: 20px 20px 20px 20px;
+    width: 50%;
+    height: 20px;
+}
+.att_form input[type=submit]{
+    display: block;
+    margin: 20px 40px 20px 40px;
+    width: 40%;
+    height: 30px;
+}
+.att_form input[type=checkbox]{
+    display: inline-block;
+    height: 20px;
+}
